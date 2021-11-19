@@ -1,6 +1,6 @@
 const Lavalink = {
-    host: lavalink.devin-dev.xyz,
-    port: 443,
-    pass: lava123,
-    secure: true
+    host: "lavalink.devin-dev.xyz", // hostname
+    port: 443, // port
+    pass: "lava123", // password
+    secure: true // secure mode
 }
