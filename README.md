@@ -28,4 +28,4 @@ secure: true
 * [discord-js-lavalink-music-bot](https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js) by [@Tomato6966](https://github.com/6966)
 
 # 🏷️
-Feel free to open a [issues](https://github.com/DevinOfficial/Lavalink-Host/issues) or [pull request](https://github.com/DevinOfficial/Lavalink-Host/pull-requests) for anything on this project
+Feel free to open a [issues](https://github.com/DevinOfficial/Lavalink-Host/issues) or [pull requests](https://github.com/DevinOfficial/Lavalink-Host/pulls) for anything on this project
