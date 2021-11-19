@@ -5,14 +5,14 @@
 
 **CHOOSE ONE BELOW**:
 
-> MAIN
+> [MAIN](/list/node-main.js)
 ```console
 host: lavalink.devin-dev.xyz
 port: 443
 pass: lava123
 secure: true
 ```
-> ALTERNATIVE
+> [ALTERNATIVE](/list/node-alternative.js)
 ```console
 host: lava.devin-dev.xyz
 port: 443
