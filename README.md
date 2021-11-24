@@ -19,6 +19,7 @@ port: 443
 password: lava123
 secure: true
 ```
+
 Find more lavalink servers [here](https://lavalink-list.darrennathanael.com)
 
 **Also can be used directly for discord music bot public repositories based on lavalink**:
