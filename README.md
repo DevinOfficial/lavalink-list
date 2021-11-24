@@ -29,4 +29,4 @@ Find more lavalink servers [here](https://lavalink-list.darrennathanael.com)
 * [discord-js-lavalink-music-bot](https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js) by [@Tomato6966](https://github.com/Tomato6966)
 
 # 🏷️
-Find a problem when using my lavalink? feel free to open a [issues](https://github.com/DevinOfficial/Lavalink-Host/issues) or [pull requests](https://github.com/DevinOfficial/Lavalink-Host/pulls) for anything to support on this project
+Having trouble using my lavalink? feel free to open a [issues](https://github.com/DevinOfficial/Lavalink-Host/issues) or [pull requests](https://github.com/DevinOfficial/Lavalink-Host/pulls) for anything to support on this project
