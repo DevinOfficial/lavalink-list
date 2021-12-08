@@ -3,24 +3,16 @@
 - [x] 24/7 Uptime (Guaranteed not to crash or random disconnect and etc)
 - [x] Full service for discord music bot based with Lavalink Client (Without self-hosting required)
 
-**CHOOSE ONE BELOW**:
-
+## CHOOSE ONE BELOW
 > [NO SSL](/list/noSSL.js)
 ```bash
-host: alufi.xyz
+host: lava.devin-dev.xyz
 port: 3888
-password: imutsekali
+password: ayraiscute
 ```
 > [WITH SSL](/list/withSSL.js)
 ```bash
 host: lavalink.devin-dev.xyz
-port: 443
-password: lava123
-secure: true
-```
-or
-```bash
-host: lava.devin-dev.xyz
 port: 443
 password: lava123
 secure: true

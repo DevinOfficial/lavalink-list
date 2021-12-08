@@ -1,7 +1,7 @@
-// just use, without any secure options
+// use without secure options, or you can added by secure: false
 
 const Lavalink = {
-    host: "alufi.xyz", // hostname
+    host: "lava.devin-dev.xyz", // hostname
     port: 3888, // port
-    password: "imutsekali", // password
+    password: "ayraiscute", // password
 }
