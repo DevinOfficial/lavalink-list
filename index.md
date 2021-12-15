@@ -1,7 +1,7 @@
-# Lavalink-Server
+# My-Lavalink
 - [x] Ready to use (For any use)
 - [x] 24/7 Uptime (Guaranteed not to crash or random disconnect and etc)
-- [x] Full service for discord music bot based with Lavalink Client (Without self-hosting required)
+- [x] Full service for discord music bot wrapped with Lavalink Client (Without self-hosting required)
 
 ## CHOOSE ONE BELOW
 > [NO SSL](/list/noSSL.js)
