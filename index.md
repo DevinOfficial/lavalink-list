@@ -9,6 +9,7 @@
 host: lava.devin-dev.xyz
 port: 3888
 password: ayraiscute
+secure: false
 ```
 > [WITH SSL](/list/withSSL.js)
 ```bash
