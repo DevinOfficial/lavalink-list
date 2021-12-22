@@ -1,4 +1,4 @@
-# My-Lavalink
+# Lavalink-Host
 - [x] Ready to use (For any use)
 - [x] 24/7 Uptime (Guaranteed not to crash or random disconnect and etc)
 - [x] Full service for discord music bot wrapped with Lavalink Client (Without self-hosting required)
@@ -19,7 +19,7 @@ password: lava123
 secure: true
 ```
 
-Find more lavalink server [here](https://lavalink-list.darrennathanael.com)
+Find more lavalink host [here](https://lavalink-list.darrennathanael.com)
 
 **Also can be used directly for discord music bot public repositories based on lavalink**:
 * [Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) by [@SudhanPlayz](https://github.com/SudhanPlayz)
